@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 - 🌱 I’m currently learning **Nextjs Typescript Mapbox**
 
